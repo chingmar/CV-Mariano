@@ -11,13 +11,13 @@
 
 <body>
     <div id="resume">
-        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/james-moriarty.jpg" alt="James Moriarty">
+        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/james-moriarty.jpg" alt="Chealse Mariano">
         <h1>Chealse Mariano</h1>
         <p>Cell: <a href=#>639269671504<a>
         <p>Web: <a href=#>moriarty.com</a>
         <p>Email: <a href=#>marianochealse.cm@gmail.com</a>
         <p id="objective">I am a reserved but ambitious young professional seeking a career that fits my professional
-            skills, personality, and murderous tendencies. My good birth, excellent education and phenomenal
+            skills and personality. My good birth, excellent education and phenomenal
             mathematical faculty have allowed me to advance the prospects of several criminal enterprises.
         <dl>
             <dt>Education
@@ -39,14 +39,15 @@
         <dl>
             <dt>Experience
             <dd>
-                <h2>Consulting Criminal<span>London 1892 – present</span></h2>
+                <h2>Administrative Assistant<span>Cagayan de Oro City 2018 – present</span></h2>
                 <ul>
-                    <li>Development within the criminal underworld
-                    <li>Conducted negotiations with several rogue governments
+                    <li>Conduct inspections of completed tasks in order to verify that the job has been finished in accordance with the contract documents and specifications
+                    <li>Conducted communication files to different Private Sectors and Government Sectors
                 </ul>
-                <h2>The Coldstream Guards<span>Army Coach, London 1889 – 1888</span></h2>
+                <h2>Sims Events and Coordination, Cagayan de Oro City 2018 – present</span></h2>
                 <ul>
-                    <li>Recruiting, training and terrorizing young men.
+                    <li>Event Organizer
+                    <li>Technical Support
                 </ul>
                 <h2>Oxford University<span>Professor of Mathematics 1885 – 1888</span></h2>
                 <ul>
@@ -57,7 +58,7 @@
         </dl>
         <dl>
             <dt>Hobbies
-            <dd>World domination, Social Manipulation, Murder Most Foul
+            <dd>World domination, Social Manipulation
         </dl>
         <dl>
             <dt>References
